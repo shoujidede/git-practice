@@ -1,4 +1,1 @@
-hoge
-supermario
-supermarrio
-supermario
+start-0
